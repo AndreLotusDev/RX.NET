@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviourSubject", "Behavio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSubject_T_", "AsyncSubject_T_\AsyncSubject_T_.csproj", "{1CF1BB54-3E0F-422C-8B36-37F46642D8C3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{35457448-A11B-443D-8091-3907BB22D3DE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sequence Operators", "Sequence Operators", "{35457448-A11B-443D-8091-3907BB22D3DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
