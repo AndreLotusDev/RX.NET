@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceTransformation", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceAggregation", "SequenceAggregation\SequenceAggregation.csproj", "{99A4F322-CE6F-4E1E-8A68-81628F692092}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Advanced Sequence Operators", "Advanced Sequence Operators", "{9434A6FA-11ED-469B-84C6-6CDAE3BED031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{86E58F4C-06B2-4747-975F-5495FD33BA16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,10 @@ Global
 		{99A4F322-CE6F-4E1E-8A68-81628F692092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A4F322-CE6F-4E1E-8A68-81628F692092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A4F322-CE6F-4E1E-8A68-81628F692092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E58F4C-06B2-4747-975F-5495FD33BA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E58F4C-06B2-4747-975F-5495FD33BA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E58F4C-06B2-4747-975F-5495FD33BA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E58F4C-06B2-4747-975F-5495FD33BA16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -139,6 +147,7 @@ Global
 		{6BD00308-78FE-4760-B95D-B31D9FD0B427} = {35457448-A11B-443D-8091-3907BB22D3DE}
 		{7D1B3A2A-F698-4D20-818E-50905A6E2C76} = {35457448-A11B-443D-8091-3907BB22D3DE}
 		{99A4F322-CE6F-4E1E-8A68-81628F692092} = {35457448-A11B-443D-8091-3907BB22D3DE}
+		{86E58F4C-06B2-4747-975F-5495FD33BA16} = {9434A6FA-11ED-469B-84C6-6CDAE3BED031}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB79E338-1877-4C67-8E5E-CB49677CAD2B}
