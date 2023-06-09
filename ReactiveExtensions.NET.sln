@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceGenerators", "Seque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertingIntoObservables", "ConvertingIntoObservables\ConvertingIntoObservables.csproj", "{A25EAEBB-CB0E-466B-882E-8724CFAB63C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceFilters", "SequenceFilters\SequenceFilters.csproj", "{421FCF5B-F1BC-490C-81DB-67FAE5BC2A58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A25EAEBB-CB0E-466B-882E-8724CFAB63C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A25EAEBB-CB0E-466B-882E-8724CFAB63C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A25EAEBB-CB0E-466B-882E-8724CFAB63C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421FCF5B-F1BC-490C-81DB-67FAE5BC2A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421FCF5B-F1BC-490C-81DB-67FAE5BC2A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421FCF5B-F1BC-490C-81DB-67FAE5BC2A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421FCF5B-F1BC-490C-81DB-67FAE5BC2A58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{331E9171-FB7D-475C-B86B-E40F69C20754} = {35457448-A11B-443D-8091-3907BB22D3DE}
 		{4B385896-1C80-4BB4-BCC5-B9FFAF73B2E3} = {35457448-A11B-443D-8091-3907BB22D3DE}
 		{A25EAEBB-CB0E-466B-882E-8724CFAB63C2} = {35457448-A11B-443D-8091-3907BB22D3DE}
+		{421FCF5B-F1BC-490C-81DB-67FAE5BC2A58} = {35457448-A11B-443D-8091-3907BB22D3DE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB79E338-1877-4C67-8E5E-CB49677CAD2B}
