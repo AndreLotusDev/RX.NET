@@ -1,7 +1,6 @@
-﻿using System.Reactive.Disposables;
+﻿using ObservableDisposeHandling.Classes;
 using System.Reactive.Linq;
 using System.Timers;
-using ObservableDisposeHandling.Classes;
 using Timer = System.Timers.Timer;
 
 const int ONE_SECOND = 1000;
