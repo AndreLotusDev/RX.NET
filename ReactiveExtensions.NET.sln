@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceInspection", "Seque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceInspection_2", "SequenceInspection_2\SequenceInspection_2.csproj", "{6BD00308-78FE-4760-B95D-B31D9FD0B427}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceTransformation", "SequenceTransformation\SequenceTransformation.csproj", "{7D1B3A2A-F698-4D20-818E-50905A6E2C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceAggregation", "SequenceAggregation\SequenceAggregation.csproj", "{99A4F322-CE6F-4E1E-8A68-81628F692092}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{6BD00308-78FE-4760-B95D-B31D9FD0B427}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BD00308-78FE-4760-B95D-B31D9FD0B427}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BD00308-78FE-4760-B95D-B31D9FD0B427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1B3A2A-F698-4D20-818E-50905A6E2C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1B3A2A-F698-4D20-818E-50905A6E2C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1B3A2A-F698-4D20-818E-50905A6E2C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1B3A2A-F698-4D20-818E-50905A6E2C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A4F322-CE6F-4E1E-8A68-81628F692092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A4F322-CE6F-4E1E-8A68-81628F692092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A4F322-CE6F-4E1E-8A68-81628F692092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A4F322-CE6F-4E1E-8A68-81628F692092}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +137,8 @@ Global
 		{421FCF5B-F1BC-490C-81DB-67FAE5BC2A58} = {35457448-A11B-443D-8091-3907BB22D3DE}
 		{570B98FB-BA73-445A-A21A-E79B8AF66816} = {35457448-A11B-443D-8091-3907BB22D3DE}
 		{6BD00308-78FE-4760-B95D-B31D9FD0B427} = {35457448-A11B-443D-8091-3907BB22D3DE}
+		{7D1B3A2A-F698-4D20-818E-50905A6E2C76} = {35457448-A11B-443D-8091-3907BB22D3DE}
+		{99A4F322-CE6F-4E1E-8A68-81628F692092} = {35457448-A11B-443D-8091-3907BB22D3DE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB79E338-1877-4C67-8E5E-CB49677CAD2B}
