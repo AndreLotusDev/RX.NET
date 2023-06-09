@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSubject_T_", "AsyncSub
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sequence Operators", "Sequence Operators", "{35457448-A11B-443D-8091-3907BB22D3DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethods", "FactoryMethods\FactoryMethods.csproj", "{5B3A0843-B6C8-40A0-ACF0-6586FE3FE699}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1CF1BB54-3E0F-422C-8B36-37F46642D8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CF1BB54-3E0F-422C-8B36-37F46642D8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CF1BB54-3E0F-422C-8B36-37F46642D8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3A0843-B6C8-40A0-ACF0-6586FE3FE699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3A0843-B6C8-40A0-ACF0-6586FE3FE699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3A0843-B6C8-40A0-ACF0-6586FE3FE699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3A0843-B6C8-40A0-ACF0-6586FE3FE699}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{AE31E149-FD37-4AFF-BB14-445C0AED0CA7} = {ACAD1423-1DC2-4CBC-BB2C-4612305B18BF}
 		{412D0AE4-021A-4C64-AACE-3991F0FBE266} = {ACAD1423-1DC2-4CBC-BB2C-4612305B18BF}
 		{1CF1BB54-3E0F-422C-8B36-37F46642D8C3} = {ACAD1423-1DC2-4CBC-BB2C-4612305B18BF}
+		{5B3A0843-B6C8-40A0-ACF0-6586FE3FE699} = {35457448-A11B-443D-8091-3907BB22D3DE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB79E338-1877-4C67-8E5E-CB49677CAD2B}
